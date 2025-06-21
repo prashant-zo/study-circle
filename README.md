@@ -17,7 +17,8 @@
 
 <div align="center">
   <video width="100%" controls>
-    <source src="YOUR_VIDEO_URL_HERE" type="video/mp4">
+    <source src="https://github.com/user-attachments/assets/4cad117f-2e17-4e30-b81f-a8fb49b75c85
+    " type="video/mp4">
     Your browser does not support the video tag.
   </video>
   <p><em>Watch the full demo to see StudyCircle in action!</em></p>
