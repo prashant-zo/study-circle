@@ -16,10 +16,7 @@
 ## 🎥 Demo Video
 
 <div align="center">
-  <video width="100%" controls>
-    <source src="https://github.com/user-attachments/assets/4cad117f-2e17-4e30-b81f-a8fb49b75c85" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+  <video controls src="https://raw.githubusercontent.com/prashant-zo/study-circle/main/assets/study-circle-compressed.mp4" title="StudyCircle Demo Video" style="max-width: 100%;"></video>
   <p><em>Watch the full demo to see StudyCircle in action!</em></p>
 </div>
 
