@@ -14,6 +14,7 @@
 </div>
 
 ## 🎥 Demo Video
+https://github.com/user-attachments/assets/4cad117f-2e17-4e30-b81f-a8fb49b75c85
 
 <div align="center">
   <video controls src="https://raw.githubusercontent.com/prashant-zo/study-circle/main/assets/study-circle-compressed.mp4" title="StudyCircle Demo Video" style="max-width: 100%;"></video>
