@@ -1,7 +1,6 @@
 # StudyCircle - Collaborative Learning Platform
 
 <div align="center">
-  <img src="public/studyCircle-logo.webp" alt="StudyCircle Logo" width="120" height="120" style="border-radius: 12px;">
   <h1>StudyCircle</h1>
   <p><strong>Connect, Collaborate, and Create Amazing Projects Together</strong></p>
   
