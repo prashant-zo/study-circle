@@ -12,7 +12,7 @@
   [![Framer Motion](https://img.shields.io/badge/Framer-Motion-purple.svg)](https://framer.com/motion/)
 </div>
 
-## 🎥 Demo Video
+## 🎥 Demo Video ->
 https://github.com/user-attachments/assets/4cad117f-2e17-4e30-b81f-a8fb49b75c85
 
 <div align="center">
